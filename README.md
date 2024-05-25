@@ -1,4 +1,4 @@
-## It's a easy CLI tool to count the number of texts in a file  
+## It's a easy CLI tool to count the number of texts in a .txt file  
 
 ### Get Start  
 ```
